@@ -95,9 +95,12 @@ text-align: center;
     padding-top:20px ;
     
 }
+.sec-para{
+    text-align: justify;
+}
 .vision-sec{
     height: 300px;
-    width: 285px;
+    width: 255px;
     margin-top: 46px;
     margin-left: 18px;
     border-radius: 8px;
@@ -113,7 +116,7 @@ text-align: center;
 }
 .goals-sec{
       height: 300px;
-    width: 285px;
+    width: 255px;
     margin-top: 46px;
     margin-left: 18px;
     border-radius: 8px;
@@ -143,6 +146,7 @@ line-height: 120%;
     width: 456px;
      padding-left: 50px;
     font-family: "Poppins";
+    text-align: justify;
 }
 .third-sec-btn{
     width: 243px;
@@ -200,6 +204,7 @@ line-height: 120%;
     width: 456px;
      padding-left: 159px;
     font-family: "Poppins";    
+    text-align: justify;
 }
 .forth-sec-btn{
 width: 243px;
@@ -266,7 +271,8 @@ line-height: 120%;
     height: 30px;
     width: 456px;
      padding-left: 159px;
-    font-family: "Poppins";  
+    font-family: "Poppins"; 
+    text-align: justify; 
 }
 .fifth-sec-btn{
 width: 118px;
